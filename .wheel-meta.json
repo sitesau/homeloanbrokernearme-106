@@ -1,0 +1,22 @@
+{
+  "wheel_id": 568,
+  "structure": "umbrella",
+  "slug": "homeloanbrokernearme-106",
+  "project": "mortgage-brokers-brisbane-first-home-5316f87917ea17e6e9ac25e672",
+  "parent_t1_ref": "homeloanbrokernearme-152",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokernearme.com.au",
+  "primary_kw": "mortgage brokers brisbane first home",
+  "intended_url": "https://sites-e470-2.web.app/mortgage-brokers-brisbane-first-home-5316f87917ea17e6e9ac25e672/",
+  "tier": "T2",
+  "writeback_nonce": "a1e3eaf726b7abab",
+  "links": [
+    {
+      "target_url": "http://mortgage-brokers-brisbane-d64186e522f274ec5c17b291be72404cf0e8a.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "http://mortgage-brokers-brisbane-d64186e522f274ec5c17b291be72404cf0e8a.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
